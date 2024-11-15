@@ -4,7 +4,7 @@ This repo contains the Official Pytorch implementation of our paper:
 
 MEDCAM-OSTEOCLS: MEDICAL CONTEXT AWARE MULTIMODAL CLASSIFICATION OF KNEE OSTEOARTHRITIS (UNDER REVIEW at ICASSP-25)
 
-![[View Example PDF]](./MedCAM_OsteoCls_Architecture.pdf)/
+![MedCAM_OsteoCls_architecture](./MedCAM_OsteoCls_architecture.png)/
 
 Requirements
 
