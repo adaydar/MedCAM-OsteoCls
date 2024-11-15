@@ -16,11 +16,11 @@ Requirements
 Prepare Dataset:
 
     1. Kindly check "https://github.com/adaydar/MtRA-Unet/tree/main" repository for dataset preparation.
-    2. Then kindly check the "config" file for code preparation.
+    2. Then kindly check the "config" file before running the training and testing code.
 
 Training and Testing:
 
-Prepare the dataset and then run the following command for pretrain:
+Prepare the dataset and then run the following command for training:
 
     python3 train.py
 
