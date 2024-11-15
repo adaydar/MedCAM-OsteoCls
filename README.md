@@ -15,7 +15,7 @@ Requirements
 
 Prepare Dataset:
 
-    1. Kindly check "https://github.com/adaydar/MtRA-Unet/main/" repository for dataset preparation.
+    1. Kindly check "https://github.com/adaydar/MtRA-Unet/tree/main" repository for dataset preparation.
     2. Then kindly check the "config" file for code preparation.
 
 Training and Testing:
