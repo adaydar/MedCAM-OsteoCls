@@ -11,10 +11,10 @@ import torch.nn.functional as F
 from utils.config import *
 
 class Test_CONFIG():
-  seg_dir = "/workspace/udit/Akshay/multitask_learning/seg/model.pth"
-  MRI_dir_path = "/workspace/udit/Akshay/multitask_learning/datasets/Binary_MRI/FS_binary/" 
-  Xray_dir_path = "/workspace/udit/Akshay/KneeOAxray3/"
-  save_path = "/workspace/udit/Akshay/multitask_learning/code/updated_model/models/xray_MRI/late_fusion/Github/results/"
+  seg_dir = "./seg/model.pth"
+  MRI_dir_path = "./MRI_volumes_test/" 
+  Xray_dir_path = "./Xray_images_test/"
+  save_path = "./results/"
   test_dir_MRI= MRI_dir_path + 'Test' 
   test_dir_Xray = Xray_dir_path + 'test'
   device =  torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
