@@ -2,9 +2,9 @@
 
 This repo contains the Official Pytorch implementation of our paper:
 
-MEDCAM-OSTEOCLS: MEDICAL CONTEXT AWARE MULTIMODAL CLASSIFICATION OF KNEE OSTEOARTHRITIS (Accepted at ICASSP-25)
+MEDCAM-OSTEOCLS: MEDical Context Aware Multimodal Classification of Knee Osteoarthritis (Accepted at ICASSP-25)
 
-![MedCAM_OsteoCls_architecture](./MedCAM_OsteoCls_architecture.png)/
+![MedCAM_OsteoCls_architecture](./MedCAM_OsteoCls_architecture.png) Figure: Overall schematic of the proposed MedCAM-OsteoCls model with (a) VGG-19-TE +Fully Connected (FC) Network, (b) the CG-SSP module and (c) the XMRCA module.
 
 Requirements
 
