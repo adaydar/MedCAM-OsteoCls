@@ -25,3 +25,7 @@ Prepare the dataset and then run the following command for training:
 For Testing, run
 
     python3 test.py
+
+Citation:
+ If you find this repo useful for your research, please consider citing our paper:
+       Daydar, Akshay, et al. "MedCAM-OsteoCls: Medical Context Aware Multimodal Classification of Knee Osteoarthritis." ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025.
